@@ -102,3 +102,5 @@ ENV/
 
 # custom
 output/
+imaging/
+images/

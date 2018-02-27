@@ -1,0 +1,4 @@
+#!/home/ec2-user/build/streamable.ai/mat2yolo/venv2/bin/python2.7
+# EASY-INSTALL-SCRIPT: 'numpy==1.14.1','f2py'
+__requires__ = 'numpy==1.14.1'
+__import__('pkg_resources').run_script('numpy==1.14.1', 'f2py')
